@@ -53,7 +53,7 @@
     "@testcontainers/mongodb": "10.16.0",
     "@types/jest": "29.5.14",
     "eslint-config-love": "116.0.0",
-    "eslint-plugin-jest": "28.10.0",
+    "eslint-plugin-jest": "28.11.0",
     "eslint-plugin-simple-import-sort": "12.1.1",
     "jest": "29.7.0",
     "prettier": "3.4.2",
